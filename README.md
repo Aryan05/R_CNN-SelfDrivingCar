@@ -9,6 +9,10 @@ Result image frames:
 
 Mask R-CNN output on a road scene:
 
+Final Video GIF:
+
+![](https://github.com/Aryan05/R_CNN-SelfDrivingCar/blob/master/output/ouput.gif)
+
 <img src="./output/R_CNN.png" width = "420" height = "250" align=center />
 
 Land Identification output:
@@ -21,6 +25,4 @@ Final combined output:
 
 Download the pretrained weights [here](https://drive.google.com/open?id=1dNi9Ny1h9KBMj_3mocMQNapeEwgeERlz) and place it in the current working directory. Run main.py specifying the input image path. It can be applied with video files using moviepy and calling process_video() function.
 
-Final Video GIF:
 
-![](https://github.com/Aryan05/R_CNN-SelfDrivingCar/blob/master/output/ouput.gif)
