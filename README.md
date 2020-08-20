@@ -23,4 +23,4 @@ Download the pretrained weights [here](https://drive.google.com/open?id=1dNi9Ny1
 
 Final Video GIF:
 
-![](https://github.com/tj27-vkr/RCNN-Vehicle-Tracking-Lane-Detection/blob/master/output/ouput.gif)
+![](https://github.com/Aryan05/R_CNN-SelfDrivingCar/blob/master/output/ouput.gif)
