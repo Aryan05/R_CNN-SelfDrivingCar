@@ -1,9 +1,3 @@
-"""
-Mask R-CNN
-Copyright (c) 2020 Matterport, Inc.
-Licensed under the MIT License (see LICENSE for details)
-
-"""
 
 import math
 import numpy as np
