@@ -1,12 +1,3 @@
-"""
-Mask R-CNN
-The main Mask R-CNN model implemenetation.
-
-Copyright (c) 2020 Matterport, Inc.
-Licensed under the MIT License (see LICENSE for details)
-
-"""
-
 import os
 import sys
 import glob
